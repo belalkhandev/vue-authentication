@@ -7,6 +7,9 @@ import axios from 'axios'
 //set base url
 axios.defaults.baseURL = 'http://127.0.0.1:8000/api/v1'
 
+// load styles files
+require('./assets/css/style.css');
+
 Vue.config.productionTip = false
 
 new Vue({

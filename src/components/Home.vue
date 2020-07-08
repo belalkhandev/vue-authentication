@@ -1,6 +1,6 @@
 <template>
     <div>
-        why this is not showing 
+        Home page 
     </div>
 </template>
 

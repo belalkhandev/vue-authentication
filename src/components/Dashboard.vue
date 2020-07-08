@@ -1,6 +1,6 @@
 <template>
     <div>
-        dashboard page
+        <h2>Welcome Belal! you're now in dashboard</h2>
     </div>
 </template>
 
